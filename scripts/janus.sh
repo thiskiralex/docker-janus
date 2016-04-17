@@ -34,7 +34,8 @@ debug_level=4
 [webserver]
 base_path=/janus
 threads=unlimited
-http=no
+http=yes
+port=8080
 https=yes
 secure_port=8089
 
